@@ -1,4 +1,4 @@
-[
+{ postData: [
   {
     id: 1,
     name: "John",
@@ -265,5 +265,5 @@
     likes: 60,
     comments: [],
   },
-];
-
+]
+}
